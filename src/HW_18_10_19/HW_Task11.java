@@ -1,3 +1,5 @@
+package HW_18_10_19;
+
 public class HW_Task11 {
     public static void main(String[] args) {
         System.out.println("Массив чисeл от 1 до 100:");

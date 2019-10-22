@@ -1,3 +1,5 @@
+package HW_18_10_19;
+
 public class HW_Task8 {
     public static void main(String[] arg) {
         System.out.println("Числа от 0 до 100, которые делятся на 3 без остатка:");

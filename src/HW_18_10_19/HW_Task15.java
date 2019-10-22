@@ -1,3 +1,5 @@
+package HW_18_10_19;
+
 public class HW_Task15 {
     public static void main(String[] arg) {
         int arr[] = new int[10];

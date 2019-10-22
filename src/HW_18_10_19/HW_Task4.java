@@ -1,3 +1,5 @@
+package HW_18_10_19;
+
 import java.util.Scanner;
 
 public class HW_Task4 {
@@ -29,7 +31,6 @@ public class HW_Task4 {
                 break;
             default:
                 System.out.println("Такого дня недели не существует");
-                break;
         }
     }
 }

@@ -1,3 +1,5 @@
+package HW_18_10_19;
+
 import java.util.Scanner;
 
 public class HW_Task5 {
